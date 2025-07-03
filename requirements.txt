@@ -11,3 +11,12 @@ pydantic
 fastapi
 uvicorn
 ipykernel
+requests
+httpx
+langchain_google_community
+langchain-google-community[places]
+streamlit
+langchain-experimental
+pyyaml
+
+-e .
